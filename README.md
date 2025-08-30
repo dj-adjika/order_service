@@ -19,4 +19,5 @@
 - docker-compose up -d
 - go run cmd/server/main.go
 - go run producer/producer.go (тестовый запрос)
+- http://localhost:8081/
 
