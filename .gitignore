@@ -1,0 +1,25 @@
+# Binaries
+/bin/
+/order-service
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# IDE
+/.vscode/
+/.idea/
+*.swp
+*.swo
+
+# Docker
+/.docker/
+/docker-compose.override.yml
+
+# Logs
+*.log
+/logs/
+
+# Environment files
+.env
+.env.local
